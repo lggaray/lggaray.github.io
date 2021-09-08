@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage
 
 You can use the [editor on GitHub](https://github.com/lggaray/lggaray.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a master student at [Zhejiang University](https://www.zju.edu.cn/), majoring in Big Data Health Science under the supervision of Prof. [Jie Yang](https://jiesutd.github.io/). I got my bachelor degree in Computer Science at [FAMAF](https://www.famaf.unc.edu.ar/), National University of Córdoba, Argentina. I also was a visiting student at [Dongseo University](https://uni.dongseo.ac.kr/eng/).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lggaray/lggaray.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My research interests are mainly focused on AI applied to healthcare. Previously, I was working in [Medical Image Processing for Automatic Report Generation](https://github.com/lggaray/Medical_Report_Generation). I also been intern at [Nanjing University Science Park](http://www.njusp.com/), working in Medical Image Processing.
