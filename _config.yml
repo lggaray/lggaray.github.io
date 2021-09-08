@@ -1,6 +1,15 @@
 title: Lucas Garay
-logo: "pic.jpg"
-round-avatar: true
+avatar: 
+  # in theme directory(source/images): /images/avatar.gif
+  # in site  directory(source/uploads): /uploads/avatar.gif
+  # You can also use other linking images.
+  url: pic.jpg
+  # If true, the avatar would be dispalyed in circle.
+  rounded: true
+  # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
+  opacity: 0.8
+  # If true, the avatar would be rotated with the cursor.
+  rotated: false
 description: Welcome to my homepage, you can contact me by email if you have any questions :D
 theme: jekyll-theme-minimal
 email: "lucasgaray095@gmail.com"
