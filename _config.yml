@@ -1,4 +1,7 @@
 title: Lucas Garay
 logo: pic.jpg
+round-avatar: true
 description: Welcome to my homepage, you can contact me by email if you have any questions :D
 theme: jekyll-theme-minimal
+social-network-links:
+  email: "lucasgaray095@gmail.com"
