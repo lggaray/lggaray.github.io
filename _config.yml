@@ -19,4 +19,4 @@ round-avatar: true
 # then specify the following parameter
 title-img: pic.jpg
 
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll #jekyll-theme-minimal
