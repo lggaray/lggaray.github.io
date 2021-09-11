@@ -1,7 +1,5 @@
 title: Lucas Garay
-logo: "pic.jpg"
+logo: https://media-exp1.licdn.com/dms/image/C5603AQFrwGD1N01RPQ/profile-displayphoto-shrink_400_400/0/1607329278304?e=1636588800&v=beta&t=Q0IeOzSFz7mpsYYN2k2Br70rCLepysznpIlopgop15s
 description: Welcome to my homepage, you can contact me by email if you have any questions :D
-social-network-links:
-  email: "lucasgaray095@gmail.com"
 theme: jekyll-theme-minimal
 show_downloads: false
