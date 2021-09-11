@@ -3,5 +3,5 @@ logo: "pic.jpg"
 description: Welcome to my homepage, you can contact me by email if you have any questions :D
 social-network-links:
   email: "lucasgaray095@gmail.com"
-theme: minimal-mistakes-jekyll #jekyll-theme-minimal
+theme: jekyll-theme-minimal
 show_downloads: false
